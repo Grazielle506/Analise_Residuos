@@ -6,7 +6,7 @@ import base64 # Importa a biblioteca base64 para codificar e decodificar dados e
 
 # --- CLASSES ---
 
-# Definição da classe Material
+# Definição da classe Material.
 class Material:
     # O método __init__ é o construtor da classe Material.
     # Ele inicializa um objeto Material com seus atributos.
