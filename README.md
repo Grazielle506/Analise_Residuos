@@ -61,7 +61,7 @@ pip install streamlit pandas plotly
 
 - 📄 [Documento de proposta técnica](https://www.overleaf.com/read/rjpnvmcbxvyq#49fcab)
 - 🧑‍🏫 [Apresentação em LaTeX (slides)](https://www.overleaf.com/read/hmbrwpzmvcrq#f0e4b8)
-- 🕸️ [Rede de Petri (normal):](https://drive.google.com/file/d/1MY0T63ELn8W_ZRVRhC-5RyLNm5gPAF8u/view?usp=sharing))
+- 🕸️ [Rede de Petri (normal):](https://drive.google.com/file/d/1MY0T63ELn8W_ZRVRhC-5RyLNm5gPAF8u/view?usp=sharing)
 - 🎨 [Rede de Petri (colorida):](https://drive.google.com/file/d/1gwv8XoTsnVfUDbF2SAB93mW4EbUC-tCM/view?usp=sharing)
 
 > **Nota:** Os arquivos de rede de Petri devem ser abertos com softwares compatíveis, como CPN Tools ou similares.
