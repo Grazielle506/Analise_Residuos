@@ -74,7 +74,7 @@ Este projeto está licenciado sob os termos da [MIT License](LICENSE).
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
 Sauán Mendes / Jéssica Ribeiro / Grazielle Santana 
 
