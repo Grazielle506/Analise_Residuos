@@ -79,4 +79,4 @@ Este projeto está licenciado sob os termos da [MIT License](LICENSE).
 Sauán Mendes / Jéssica Ribeiro / Grazielle Santana 
 
 GitHub: [@Grazielle506](https://github.com/Grazielle506)  
-E-mail: graziellegpssantana@email.com
+E-mail: graziellegpssantana@email.com / sauanmendes4@gmail.com / a.jessrn@gmail.com
